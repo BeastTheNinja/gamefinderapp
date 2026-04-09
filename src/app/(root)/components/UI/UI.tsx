@@ -1,1 +1,0 @@
-// UI Component for the Game Finder App
